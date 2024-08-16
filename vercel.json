@@ -1,8 +1,6 @@
 {
-  "rewrites": [
-    {
-      "source": "/:path*",
-      "destination": "/:path*"
-    }
+  "version": 2,
+  "routes": [
+      {"src": "/(.*)","dest": "http://47.100.255.41:60002/$1"}
   ]
 }
