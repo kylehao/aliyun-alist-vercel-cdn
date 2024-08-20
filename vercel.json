@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-      {"src": "/(.*)","dest": "http://47.100.255.41:60002/$1"}
+      {"src": "/(.*)","dest": "https://cfsaas.4567.eu.org/$1"}
   ]
 }
